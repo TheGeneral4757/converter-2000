@@ -90,7 +90,10 @@ body {
   background-color: lightgray;
 }
 #via-container {
-  background-color: rgb(212, 212, 212);
+  background-color: #ececec;
+  flex: 0.6 1 0;
+  padding: 0.8em 1.5em;
+  min-width: 180px;
 }
 #to-container {
   background-color: rgb(184, 184, 184);
